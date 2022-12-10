@@ -38,3 +38,4 @@ next-env.d.ts
 # cache.json
 cache.json
 config.json
+sugar.log
