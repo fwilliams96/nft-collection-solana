@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "242oZQ5KkGqhFJ9X3ebbEF6jvdaiBv9XVBzUEPaRadZy",
+    "candyMachineCreator": "Hes2WEy6Vt76wHrvdrYyBkzC3WdsAjtWiEvfN2ftUWJ",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Entei",
+      "image_hash": "186e8e38454af2d3c8278d41a64f861c9c91406fcd54b9a23d8cc09255717c95",
+      "image_link": "https://nftstorage.link/ipfs/bafybeidbbz54kddojqntek5rs3qxudviuxw5wj7fy32a7aiz5ttcbcbpmi/0.png",
+      "metadata_hash": "73c89b2d4c83267d5ea47b0fe1d242f6a0db6dbd56e23631b5ebf8768417d683",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeifhvg5xlga2ts63sd7z5psi27epee3gyajomlsprdymbqse2vqz2i/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Mewtwo",
+      "image_hash": "4f96f23aace1fb3a18e6ccf45652c3aa53485050917dfa0c7e731bc3915b5c09",
+      "image_link": "https://nftstorage.link/ipfs/bafybeidbbz54kddojqntek5rs3qxudviuxw5wj7fy32a7aiz5ttcbcbpmi/1.png",
+      "metadata_hash": "f0953e8f2300d3dd82a4870d0c90699911f77c63fb7215e1ae8b11c1026c7498",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeifhvg5xlga2ts63sd7z5psi27epee3gyajomlsprdymbqse2vqz2i/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "Moltres",
+      "image_hash": "3d71aa44c2d1b38d7817dfa75ec2b7d5de033862930db9e8dc9ed8c5b2e48f33",
+      "image_link": "https://nftstorage.link/ipfs/bafybeidbbz54kddojqntek5rs3qxudviuxw5wj7fy32a7aiz5ttcbcbpmi/2.png",
+      "metadata_hash": "4a7fc4f1b962642a1111c2d455fc38c1cc38a59fd1f044612322769f229fae29",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeifhvg5xlga2ts63sd7z5psi27epee3gyajomlsprdymbqse2vqz2i/2.json",
+      "onChain": true
+    }
+  }
+}
